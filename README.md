@@ -1,0 +1,1 @@
+# simple-mahjong-score-tracker
